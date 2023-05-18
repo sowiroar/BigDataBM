@@ -1,0 +1,631 @@
+Country Name,Country Code,Series Name,Series Code,2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020]
+Afghanistan,AFG,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,21.8,23,24.8,26.1,27.4,28.6,29.7,30.9,31.9,33.2
+Afghanistan,AFG,Access to electricity (% of population),EG.ELC.ACCS.ZS,43.2220191955566,69.0999984741211,68.2906494140625,89.5,71.5,97.6999969482422,97.6999969482422,96.6161346435547,97.6999969482422,97.6999969482422
+Afghanistan,AFG,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,29.5728797912598,60.8491554260254,60.5661354064941,86.5005111694336,64.573356628418,97.0993576049805,97.0919723510742,95.5861740112305,97.0756301879883,97.0667114257813
+Afghanistan,AFG,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,86.5677795410156,95,92.2590484619141,98.6999969482422,92.5,99.5,99.5,99.6260223388672,99.5,99.5
+Afghanistan,AFG,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,9.01,..,..,9.96,..,..,14.89,..,..,..
+Afghanistan,AFG,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,2.62,..,..,3.81,..,..,7.16,..,..,..
+Afghanistan,AFG,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,15.42,..,..,15.78,..,..,22.54,..,..,..
+Afghanistan,AFG,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,10.54,..,..,11.51,..,..,18.02,..,..,..
+Afghanistan,AFG,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,1.13,..,..,6.07,..,..,13.8,..,..,..
+Afghanistan,AFG,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,5.32,..,..,4.83,..,..,8.89,..,..,..
+Afghanistan,AFG,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,14.24,..,..,12.55,..,..,15.62,..,..,..
+Afghanistan,AFG,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,29.97,..,..,22.6,..,..,30.56,..,..,..
+Afghanistan,AFG,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,6.3,..,..,7.45,..,..,9.75,..,..,..
+Afghanistan,AFG,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,107.256,100.797,94.429,88.061,81.693,75.325,68.957,65.141,61.325,57.509
+Afghanistan,AFG,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,Agriculture value added per worker (constant 2010 US$),EA.PRD.AGRI.KD,617.65195352011,708.898328123318,687.884952285777,667.476027509854,612.675697043218,632.952293955418,..,..,..,..
+Afghanistan,AFG,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,1033.99807823704,1214.31547954866,1190.34507864943,1161.95867756778,1073.34520324316,1119.92613041193,1191.8822300237,1118.64521979987,1284.51034261624,..
+Afghanistan,AFG,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,109.421117469991,116.660723422675,84.621216,34.283472,33.102038592,29.010880897,21.462556513,29.5593487980126,20.0142059549175,19.878902393
+Afghanistan,AFG,"Air transport, passengers carried",IS.AIR.PSGR,2279341.17952861,1737962.12640656,2044188,2209428,1929907,1917924,1647425,1125367,1066747.35619248,449041.025
+Afghanistan,AFG,Annual deforestation (% of change) - (for online table only),ER.FST.DFST.ZG,..,..,..,..,0,..,..,..,..,..
+Afghanistan,AFG,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,..,98.1696273,..,..,..,..,98.1696273,..,..,..
+Afghanistan,AFG,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,..,0.9983851096,..,..,..,..,0.9983851096,..,..,..
+Albania,ALB,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,68.9,71.3,73.15,74.6,76.2,77.8,78.7,79.8,80.7,81.3
+Albania,ALB,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,99.9000015258789,100,99.9499969482422,99.9800033569336,99.8899993896484,99.8899993896484,100,100,100
+Albania,ALB,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,100
+Albania,ALB,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,99.9000015258789,100,100,100,100,100,100,100,100
+Albania,ALB,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,28.27,..,..,37.99,..,..,40.02,..,..,..
+Albania,ALB,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,22.67,..,..,33.59,..,..,38.1,..,..,..
+Albania,ALB,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,33.66,..,..,42.52,..,..,42.04,..,..,..
+Albania,ALB,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,28.73,..,..,40.4,..,..,42.51,..,..,..
+Albania,ALB,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,17.52,..,..,23.89,..,..,22.75,..,..,..
+Albania,ALB,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,15.06,..,..,24.01,..,..,27.5,..,..,..
+Albania,ALB,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,35.41,..,..,47.38,..,..,51.51,..,..,..
+Albania,ALB,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,36.24,..,..,56.22,..,..,55.83,..,..,..
+Albania,ALB,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,26.4,..,..,29.96,..,..,31.5,..,..,..
+Albania,ALB,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,6.5086742,4.853446,3.1930108,0.81829052,-0.05640822,1.0422042,-0.07170126,0.25047796,-2.0803741,-5.4486781
+Albania,ALB,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,20.2754,20.73,20.5124,20.2948,20.0772,19.8596,19.642,19.5724,19.5028,19.4332
+Albania,ALB,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,..,..,5.42662000656128,5.24217987060547,3.05840992927551,5.17389011383057,6.07263994216919,3.05679988861084,3.69732999801636,3.54767990112305
+Albania,ALB,"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS,..,..,5.59966993331909,5.30709981918335,2.34666991233826,4.35164022445679,4.35027980804443,0.554000020027161,1.3330899477005,1.30401003360748
+Albania,ALB,"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS,..,..,5.26714992523193,5.1828498840332,3.69950008392334,5.90330982208252,7.57554006576538,5.22058010101318,5.73390007019043,5.47868013381958
+Albania,ALB,Agriculture value added per worker (constant 2010 US$),EA.PRD.AGRI.KD,3684.42052765088,3915.33547901136,3999.41417119859,4119.41427386629,4194.30924936104,4281.27826290707,..,..,..,..
+Albania,ALB,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,3817.87315253139,4139.5120947881,4783.10578239364,5188.42123109181,5057.19126899551,5106.41724554162,5239.14755445587,5121.63157467585,5133.27473251261,..
+Albania,ALB,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0,0,0,..,..,..,..,0,0,0
+Albania,ALB,"Air transport, passengers carried",IS.AIR.PSGR,829778.923870707,814339.730278696,865848,151632,..,26634,204090,303137,307741,124714
+Albania,ALB,Annual deforestation (% of change) - (for online table only),ER.FST.DFST.ZG,..,..,..,..,-0.0190395545486695,..,..,..,..,..
+Albania,ALB,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,..,50.12590033,..,..,..,..,63.74137202,..,..,..
+Albania,ALB,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,..,30.4829386225,..,..,..,..,19.9323848429,..,..,..
+Algeria,DZA,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,99.3,99.4,99.4,99.5,99.5,99.6,99.6,99.6,99.7,99.7
+Algeria,DZA,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.8880310058594,98.7646636962891,99.0022048950195,99.0870132446289,99.1866607666016,99.3502502441406,99.6354904174805,99.6978378295898,99.5,99.8041305541992
+Algeria,DZA,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,97.2720489501953,97.6737289428711,97.288932800293,97.4306106567383,97.6523742675781,98.1268463134766,99.0720062255859,99.0713043212891,98.6810531616211,99.5799026489258
+Algeria,DZA,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.6402740478516,99.2567367553711,99.7513809204102,99.7894515991211,99.8179779052734,99.8388824462891,99.8540573120117,99.933952331543,99.8000030517578,99.8840103149414
+Algeria,DZA,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,33.29,..,..,50.48,..,..,42.78,..,..,..
+Algeria,DZA,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,20.41,..,..,40.07,..,..,29.27,..,..,..
+Algeria,DZA,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,46.13,..,..,60.91,..,..,56.25,..,..,..
+Algeria,DZA,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,39.88,..,..,57.48,..,..,48.75,..,..,..
+Algeria,DZA,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,23.09,..,..,36.97,..,..,34.97,..,..,..
+Algeria,DZA,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,30.07,..,..,48.35,..,..,38.95,..,..,..
+Algeria,DZA,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,40.5,..,..,59.46,..,..,47.97,..,..,..
+Algeria,DZA,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,40.28,..,..,55.32,..,..,48.96,..,..,..
+Algeria,DZA,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,20.3,..,..,38.45,..,..,28.58,..,..,..
+Algeria,DZA,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,25.529719,25.655555,24.371188,23.330167,19.733928,23.131988,22.790162,22.163713,21.440253,16.407117
+Algeria,DZA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,11.1822,11.556,11.259,10.962,10.665,10.368,10.071,9.8338,9.5966,9.3594
+Algeria,DZA,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,..,..,..,..,..,..,..,..,..,..
+Algeria,DZA,"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS,..,..,..,..,..,..,..,..,..,..
+Algeria,DZA,"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS,..,..,..,..,..,..,..,..,..,..
+Algeria,DZA,Agriculture value added per worker (constant 2010 US$),EA.PRD.AGRI.KD,4777.83812700773,5112.22097777358,5529.69182276313,5676.81802764072,6061.03450020117,6203.30588006615,..,..,..,..
+Algeria,DZA,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,13922.1626970872,14894.5454218404,15431.460361184,16612.7110953492,17553.6031869165,17400.3852893236,17663.2532567194,18584.9139531716,19430.2508044725,..
+Algeria,DZA,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,14.826,14.926,17.5024186277313,21.6623331878,21.9016451671492,21.591025,24.80375,28.28048,25.641745,15.638799
+Algeria,DZA,"Air transport, passengers carried",IS.AIR.PSGR,3543663,4082595,4492436.96334419,5021288.96334419,5400896,6093416,6230157,6442442,6752002,1460077
+Algeria,DZA,Annual deforestation (% of change) - (for online table only),ER.FST.DFST.ZG,..,..,..,..,-1.43763489193647,..,..,..,..,..
+Algeria,DZA,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,..,59.22848665,..,..,..,..,63.76409864,..,..,..
+Algeria,DZA,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,..,35.8456973294,..,..,..,..,34.4102466068,..,..,..
+American Samoa,ASM,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,Access to electricity (% of population),EG.ELC.ACCS.ZS,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,Agriculture value added per worker (constant 2010 US$),EA.PRD.AGRI.KD,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.00953562016324629,0.0105628109495541,0.010932,0.011652,..,..,..,..,..,..
+American Samoa,ASM,"Air transport, passengers carried",IS.AIR.PSGR,50641.7227722772,56096.9796769151,72240,76944,..,..,..,..,..,..
+American Samoa,ASM,Annual deforestation (% of change) - (for online table only),ER.FST.DFST.ZG,..,..,..,..,0.190895547800821,..,..,..,..,..
+American Samoa,ASM,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100
+Andorra,AND,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100
+Andorra,AND,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,100
+Andorra,AND,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,100,100,100,100,100,100,100,100
+Andorra,AND,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,Agriculture value added per worker (constant 2010 US$),EA.PRD.AGRI.KD,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Air transport, passengers carried",IS.AIR.PSGR,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,Annual deforestation (% of change) - (for online table only),ER.FST.DFST.ZG,..,..,..,..,0,..,..,..,..,..
+Andorra,AND,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,..,..,..,..,..,..,..,..,..,..
+Angola,AGO,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,44.8,45.2,45.8,46.5,47.2,47.8,48.4,49.1,49.5,50.2
+Angola,AGO,Access to electricity (% of population),EG.ELC.ACCS.ZS,34.5999984741211,37.1313209533691,38.2780303955078,32,42,41.8131294250488,43.0132598876953,45.2900009155273,45.6427993774414,46.8906097412109
+Angola,AGO,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,..,..,..,..,3.81506657600403,..,..,7.33344507217407,..,..
+Angola,AGO,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,82.5,70.4634704589844,68.662223815918,51,64,67.9733963012695,69.4111709594727,65.2699966430664,72.2771835327148,73.7089157104492
+Angola,AGO,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,39.2,..,..,29.32,..,..,..,..,..,..
+Angola,AGO,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,38.93,..,..,22.33,..,..,..,..,..,..
+Angola,AGO,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,39.48,..,..,36.13,..,..,..,..,..,..
+Angola,AGO,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,44.65,..,..,37.7,..,..,..,..,..,..
+Angola,AGO,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,..,..,..,12.54,..,..,..,..,..,..
+Angola,AGO,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,34.82,..,..,14.35,..,..,..,..,..,..
+Angola,AGO,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,..,..,..,40.46,..,..,..,..,..,..
+Angola,AGO,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,44.35,..,..,70.25,..,..,..,..,..,..
+Angola,AGO,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,30.46,..,..,14.86,..,..,..,..,..,..
+Angola,AGO,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,0.8174817,3.6962114,2.2404382,5.5554444,10.686428,9.7991176,4.5113707,-1.6837724,-1.2330591,-9.7441786
+Angola,AGO,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,170.1658,167.4,164.0252,160.6504,157.2756,153.9008,150.526,147.958,145.39,142.822
+Angola,AGO,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,..,..,..,..,..,..,..,..,..,..
+Angola,AGO,"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS,..,..,..,..,..,..,..,..,..,..
+Angola,AGO,"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS,..,..,..,..,..,..,..,..,..,..
+Angola,AGO,Agriculture value added per worker (constant 2010 US$),EA.PRD.AGRI.KD,..,..,..,..,..,..,..,..,..,..
+Angola,AGO,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,1564.70437181934,1616.86874827744,1624.14023369055,1838.67044764846,1953.32576259993,1957.99141253175,1903.69584993495,1699.9076800409,1573.956603921,..
+Angola,AGO,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,50.973,70.977,70.431,65.517,46.043,43.940435,67.32035,78.15964,68.04358,28.89977
+Angola,AGO,"Air transport, passengers carried",IS.AIR.PSGR,987798,1132424,1321872,1409952,1244491,1482546,1375523,1516628,1436959,356695
+Angola,AGO,Annual deforestation (% of change) - (for online table only),ER.FST.DFST.ZG,..,..,..,..,0.212066536527317,..,..,..,..,..
+Angola,AGO,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,..,20.78492491,..,..,..,..,20.78492491,..,..,..
+Angola,AGO,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,..,45.2677812411,..,..,..,..,45.2677812411,..,..,..
+Antigua and Barbuda,ATG,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100
+Antigua and Barbuda,ATG,Access to electricity (% of population),EG.ELC.ACCS.ZS,94.5520172119141,100,100,100,100,100,100,100,100,100
+Antigua and Barbuda,ATG,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,92.6698303222656,100,100,100,100,100,100,100,100,100
+Antigua and Barbuda,ATG,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.9926147460938,100,100,100,100,100,100,100,100,100
+Antigua and Barbuda,ATG,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,47.832,47,46.1564,45.3128,44.4692,43.6256,42.782,41.831,40.88,39.929
+Antigua and Barbuda,ATG,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,..,..,2.7876501083374,2.09877991676331,1.29970002174377,5.28152990341187,4.68527984619141,1.43780994415283,2.5163300037384,..
+Antigua and Barbuda,ATG,"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS,..,..,..,4.71227979660034,28.8755207061768,4.98588991165161,8.75179004669189,1.88862001895905,3.27627992630005,..
+Antigua and Barbuda,ATG,"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS,..,..,..,5.86146020889282,29.4064292907715,5.57089996337891,0.702579975128174,0.996200025081635,1.77202999591827,..
+Antigua and Barbuda,ATG,Agriculture value added per worker (constant 2010 US$),EA.PRD.AGRI.KD,2662.55629435463,2727.40755849154,2878.73843664379,2417.23415971428,2723.46028609769,2834.80602691937,..,..,..,..
+Antigua and Barbuda,ATG,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.737832657469009,0.647650744253274,0.592524,0.591624,0.52654536,0.54918681,0.322269,0.29449120996578,0.18092731080894,0.094624983
+Antigua and Barbuda,ATG,"Air transport, passengers carried",IS.AIR.PSGR,1424420.15538991,1310276.41341743,1218000,1216152,1039810,1042929,590517,580174.156834825,526333.995080553,270009.339
+Antigua and Barbuda,ATG,Annual deforestation (% of change) - (for online table only),ER.FST.DFST.ZG,..,..,..,..,0.134594056293153,..,..,..,..,..
+Antigua and Barbuda,ATG,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,..,15.65217391,..,..,..,..,15.65217391,..,..,..
+Antigua and Barbuda,ATG,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,..,62.6086956522,..,..,..,..,62.6086956522,..,..,..
+Arab World,ARB,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,85.1927422830313,85.6442178736525,85.9325668923006,86.2323839036625,86.4785972446623,86.7226851698721,86.9379329026332,87.0407737328279,87.2355388850014,87.307067521291
+Arab World,ARB,Access to electricity (% of population),EG.ELC.ACCS.ZS,87.3326612400273,87.0395883900211,88.992619805618,88.0153561759997,88.681885670696,89.195062354407,90.3246594905463,88.9107494038454,89.9999455504114,90.2777350826821
+Arab World,ARB,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,75.5598155825924,75.3770220882081,79.5826215366143,77.6661574656659,78.9515923942286,79.7916653755411,82.373065558642,82.9707537126568,83.7405000180715,81.6608986675958
+Arab World,ARB,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.999401879534,96.9800791858605,97.2390570202181,96.8561009554453,97.0213129527158,97.2617989667955,97.4836583550061,97.581236908265,98.2782869522888,97.5403970169547
+Arab World,ARB,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,22.48,..,..,30.47,..,..,37.23,..,..,..
+Arab World,ARB,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,13.93,..,..,22.22,..,..,25.68,..,..,..
+Arab World,ARB,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,30.66,..,..,38.03,..,..,48.4,..,..,..
+Arab World,ARB,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,26,..,..,34.42,..,..,42.6,..,..,..
+Arab World,ARB,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,16.36,..,..,23.09,..,..,27.92,..,..,..
+Arab World,ARB,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,14.16,..,..,21.37,..,..,26.47,..,..,..
+Arab World,ARB,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,26.69,..,..,35.5,..,..,43.64,..,..,..
+Arab World,ARB,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,31.01,..,..,39.16,..,..,48.77,..,..,..
+Arab World,ARB,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,14.73,..,..,21.4,..,..,21.01,..,..,..
+Arab World,ARB,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,23.3894289984879,22.5371069161669,21.3863168760091,18.9586038490566,11.4341757868938,12.3305996507027,15.1308080791039,16.7992242242494,16.5269924628362,12.0067059244859
+Arab World,ARB,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,49.8669676715239,49.7910668476932,49.3453591765536,48.8539979631416,48.279737869624,47.5047393913232,46.6871192585151,46.0027225819805,45.2453686562773,44.4066110405966
+Arab World,ARB,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,20.3355693817139,19.0652103424072,21.6082096099854,20.438419342041,19.4983406066895,18.6545600891113,18.4551696777344,17.2206993103027,16.3692207336426,16.8374691009521
+Arab World,ARB,"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS,22.75830078125,21.2893009185791,23.9454708099365,22.839319229126,21.8058700561523,20.7598705291748,20.5450401306152,19.3094100952148,18.380989074707,18.7928695678711
+Arab World,ARB,"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS,18.0152702331543,16.9370708465576,19.3710803985596,18.1390895843506,17.2890396118164,16.6410293579102,16.4557399749756,15.2209997177124,14.444239616394,14.9683599472046
+Arab World,ARB,Agriculture value added per worker (constant 2010 US$),EA.PRD.AGRI.KD,4308.48752507831,4447.35895843827,4698.80125599096,4735.19134133546,4766.65607805546,4915.24398862474,..,..,..,..
+Arab World,ARB,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,5668.95163310947,5870.35489711946,5994.41936849631,6152.60069559045,6292.9407128283,6263.7746544443,6359.2697988723,6816.60901593628,7600.37650157593,..
+Arab World,ARB,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,17136.9274516384,19711.7646195193,22234.0136372668,24698.8996924264,25918.4579033048,27869.6950203519,30342.7250758281,31869.1803896217,31621.8505242479,27332.2207153544
+Arab World,ARB,"Air transport, passengers carried",IS.AIR.PSGR,135837641.389789,152014159.66127,166209279.140784,181627311.076906,195957046,214318723,223496214.05,232670166.889823,246284712.901893,83932897.006
+Arab World,ARB,Annual deforestation (% of change) - (for online table only),ER.FST.DFST.ZG,..,..,..,..,1.4987313063389,..,..,..,..,..
+Arab World,ARB,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,..,..,..,..,..,..,84.2697615298626,..,..,..
+Arab World,ARB,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,..,..,..,..,..,..,10.6057768922459,..,..,..
+Argentina,ARG,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,99.3,99.5,99.6,99.7,99.7,99.8,99.8,99.8,99.9,99.9
+Argentina,ARG,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.0953521728516,99.22998046875,99.3426742553711,100,99.6253890991211,99.8495788574219,100,99.9895782470703,100,100
+Argentina,ARG,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,95.8507995605469,94.6899337768555,94.6871871948242,100,97.0914993286133,98.8367691040039,100,99.8718109130859,100,100
+Argentina,ARG,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.416633605957,99.6723709106445,99.7891464233398,100,99.8606872558594,99.9421310424805,100,100,100,100
+Argentina,ARG,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,33.13,..,..,50.2,..,..,48.71,..,..,..
+Argentina,ARG,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,31.82,..,..,50.85,..,..,50.76,..,..,..
+Argentina,ARG,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,34.61,..,..,49.46,..,..,46.47,..,..,..
+Argentina,ARG,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,38.35,..,..,57.5,..,..,53.37,..,..,..
+Argentina,ARG,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,19.67,..,..,44.63,..,..,38.06,..,..,..
+Argentina,ARG,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,28.27,..,..,52.27,..,..,43.05,..,..,..
+Argentina,ARG,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,42.06,..,..,53.9,..,..,55.79,..,..,..
+Argentina,ARG,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,36.87,..,..,48.9,..,..,52.28,..,..,..
+Argentina,ARG,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,15.54,..,..,24.49,..,..,33.11,..,..,..
+Argentina,ARG,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,7.3658109,5.6131098,4.4142222,4.7867107,5.1598319,5.1862781,5.1046817,1.7412227,3.8909394,8.4351476
+Argentina,ARG,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,63.4412,63.567,63.41,63.253,63.096,62.939,62.782,62.5654,62.3488,62.1322
+Argentina,ARG,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,1.98483002185822,1.11117994785309,0.772560000419617,0.511280000209808,0.383439987897873,0.129409998655319,0.00779000017791986,0.114450000226498,0.93901002407074,..
+Argentina,ARG,"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS,..,..,..,..,..,0.120250001549721,..,..,1.25370001792908,..
+Argentina,ARG,"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS,..,..,..,..,..,0.138270005583763,..,..,0.635370016098022,..
+Argentina,ARG,Agriculture value added per worker (constant 2010 US$),EA.PRD.AGRI.KD,21117.5355591817,18504.6644487415,20763.0048338505,21563.9146392366,23360.8493985673,22268.6704612007,..,..,..,..
+Argentina,ARG,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,258328.157669273,229787.801952895,253639.829807253,294120.979809939,659467.953414414,1239978.81925191,2743919.11189924,1376881.49882399,2758230.53041405,..
+Argentina,ARG,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,192.20126,180.120460072137,268.710767897573,261.60894,243.7725665,254.181413504,305.102,311.720805,280.283172,81.12423
+Argentina,ARG,"Air transport, passengers carried",IS.AIR.PSGR,8590839.84977289,9375669.73963746,11951276.8223926,12121912.818,14245183,15076354,16749271,18084553,19461377,3680874
+Argentina,ARG,Annual deforestation (% of change) - (for online table only),ER.FST.DFST.ZG,..,..,..,..,1.07006608774228,..,..,..,..,..
+Argentina,ARG,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,..,73.92800424,..,..,..,..,73.92800424,..,..,..
+Argentina,ARG,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,..,15.4843832716,..,..,..,..,15.4843832716,..,..,..
+Armenia,ARM,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,96.8,97.2,97.5,97.6,97.8,97.9,98,98,98,98.1
+Armenia,ARM,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.6057968139648,99.6289672851563,99.4199981689453,99.7099990844727,100,99.8000030517578,99.6999969482422,99.9000015258789,100,100
+Armenia,ARM,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,99.5545959472656,99.3507766723633,99.4371490478516,99.7955474853516,100,99.8000030517578,99.5289764404297,99.9000015258789,100,100
+Armenia,ARM,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.6354293823242,99.7906723022461,99.4100036621094,99.6600036621094,100,99.8000030517578,99.8000030517578,99.9000015258789,100,99.9594116210938
+Armenia,ARM,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,17.49,..,..,17.67,..,..,47.76,..,..,..
+Armenia,ARM,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,18.15,..,..,14.74,..,..,40.91,..,..,..
+Armenia,ARM,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,16.72,..,..,21.12,..,..,55.75,..,..,..
+Armenia,ARM,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,18.6,..,..,19.88,..,..,48.02,..,..,..
+Armenia,ARM,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,15.04,..,..,11.09,..,..,34.42,..,..,..
+Armenia,ARM,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,6.97,..,..,6.13,..,..,50.05,..,..,..
+Armenia,ARM,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,19.11,..,..,22.04,..,..,56.65,..,..,..
+Armenia,ARM,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,20.31,..,..,20.55,..,..,47.44,..,..,..
+Armenia,ARM,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,13.85,..,..,10.4,..,..,46.82,..,..,..
+Armenia,ARM,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,-1.3131138,1.7674773,2.3177542,0.8528781,4.9143731,4.3586743,3.7118769,2.147385,-3.4586498,-0.74553136
+Armenia,ARM,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,25.4306,24.842,24.1716,23.5012,22.8308,22.1604,21.49,20.886,20.282,19.678
+Armenia,ARM,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,5.25777006149292,..,..,..,..,6.79751014709473,7.37140989303589,8.21479034423828,10.2948198318481,9.77754020690918
+Armenia,ARM,"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS,4.76688003540039,..,..,..,..,5.66077995300293,6.2525200843811,7.33375978469849,9.32382965087891,8.62642955780029
+Armenia,ARM,"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS,5.69098997116089,..,..,..,..,7.77609014511108,8.33870029449463,8.97906017303467,11.1394500732422,10.7814102172852
+Armenia,ARM,Agriculture value added per worker (constant 2010 US$),EA.PRD.AGRI.KD,12376.2299617807,13741.5098768458,15102.7045823753,16374.8594077135,19093.8247827261,18401.4533222708,..,..,..,..
+Armenia,ARM,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,3028.00076818021,3393.2495462351,3672.82441892129,4161.24724505236,4733.99238098756,4781.08019277232,4892.90461713513,5863.6331858298,6135.49410189501,..
+Armenia,ARM,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,4.4857,3.0115,0.999996,0,..,..,..,0,0.3265,0.11692
+Armenia,ARM,"Air transport, passengers carried",IS.AIR.PSGR,392312,364733,45000,0,..,..,..,53259,193668,54940
+Armenia,ARM,Annual deforestation (% of change) - (for online table only),ER.FST.DFST.ZG,..,..,..,..,0.0200481305200384,..,..,..,..,..
+Armenia,ARM,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,..,71.67630058,..,..,..,..,74.22011306,..,..,..
+Armenia,ARM,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,..,20.4182250935,..,..,..,..,21.5088282504,..,..,..
+Aruba,ABW,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100
+Aruba,ABW,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,100
+Aruba,ABW,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,100,100,100,100,100,100,100,100
+Aruba,ABW,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,29.582,28.512,27.3444,26.1768,25.0092,23.8416,22.674,21.1736,19.6732,18.1728
+Aruba,ABW,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,Agriculture value added per worker (constant 2010 US$),EA.PRD.AGRI.KD,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Air transport, passengers carried",IS.AIR.PSGR,..,..,..,..,..,..,223502,274280,..,..
+Aruba,ABW,Annual deforestation (% of change) - (for online table only),ER.FST.DFST.ZG,..,..,..,..,0,..,..,..,..,..
+Aruba,ABW,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,..,..,..,..,..,..,..,..,..,..
+Australia,AUS,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100
+Australia,AUS,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100
+Australia,AUS,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,100
+Australia,AUS,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,100,100,100,100,100,100,100,100
+Australia,AUS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,99.06,..,..,98.86,..,..,99.52,..,..,..
+Australia,AUS,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,98.59,..,..,99.04,..,..,99.2,..,..,..
+Australia,AUS,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,99.59,..,..,98.67,..,..,99.85,..,..,..
+Australia,AUS,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,99.11,..,..,99.61,..,..,99.64,..,..,..
+Australia,AUS,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,97.95,..,..,100,..,..,99.29,..,..,..
+Australia,AUS,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,100,..,..,100,..,..,100,..,..,..
+Australia,AUS,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,99.8,..,..,98.13,..,..,99.67,..,..,..
+Australia,AUS,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,99.16,..,..,99.12,..,..,99.67,..,..,..
+Australia,AUS,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,98.76,..,..,94.78,..,..,100,..,..,..
+Australia,AUS,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,8.7708244,10.283875,9.5557244,8.1485951,7.1495892,5.1020565,6.3716474,6.0403124,6.8675771,5.8873526
+Australia,AUS,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,13.2616,12.302,12.1846,12.0672,11.9498,11.8324,11.715,11.3258,10.9366,10.5474
+Australia,AUS,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,..,..,0.616469979286194,0.421920001506805,0.169729992747307,1.09826004505157,1.88276994228363,2.45424008369446,1.97146999835968,2.02185988426209
+Australia,AUS,"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS,..,..,0.390350013971329,0.284759998321533,..,1.09065997600555,2.02921009063721,2.5986499786377,2.19272994995117,2.15327000617981
+Australia,AUS,"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS,..,..,0.830600023269653,0.552009999752045,..,1.10546004772186,1.74381995201111,2.31709003448486,1.76118004322052,1.89690005779266
+Australia,AUS,Agriculture value added per worker (constant 2010 US$),EA.PRD.AGRI.KD,57130.8397846435,57946.5397874072,57617.5306784858,58144.7534349433,58747.3839742333,55934.0476996213,..,..,..,..
+Australia,AUS,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,98162.1091519575,98623.5499933409,103616.288336969,97345.8419662545,102737.099538436,94351.9879690241,102052.294751093,96313.7533868038,86838.2488864252,..
+Australia,AUS,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,2846.59879756427,2731.69798,1984.693734,1925.77200862967,1907.05190944687,1868.73262766,1982.586170817,2027.63710989603,1931.1555305,1200.644145234
+Australia,AUS,"Air transport, passengers carried",IS.AIR.PSGR,63360310.3377656,66355274,68197955,68123237.6693167,69779346,72446421,74257326,75667645.0347507,76850596.719,23627140.505
+Australia,AUS,Annual deforestation (% of change) - (for online table only),ER.FST.DFST.ZG,..,..,..,..,0.214831142641728,..,..,..,..,..
+Australia,AUS,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,..,59.84768088,..,..,..,..,63.42877854,..,..,..
+Australia,AUS,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,..,23.3722454585,..,..,..,..,20.4905158874,..,..,..
+Austria,AUT,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100
+Austria,AUT,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100
+Austria,AUT,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,100
+Austria,AUT,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,100,100,100,100,100,100,100,100
+Austria,AUT,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,97.08,..,..,96.73,..,..,98.16,..,..,..
+Austria,AUT,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,96.56,..,..,97.37,..,..,98.38,..,..,..
+Austria,AUT,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,97.74,..,..,96.06,..,..,97.93,..,..,..
+Austria,AUT,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,97.78,..,..,98.13,..,..,99.09,..,..,..
+Austria,AUT,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,94.72,..,..,96.27,..,..,97.91,..,..,..
+Austria,AUT,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,88.94,..,..,96.36,..,..,95.96,..,..,..
+Austria,AUT,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,98.64,..,..,97.1,..,..,98.33,..,..,..
+Austria,AUT,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,98.34,..,..,96.88,..,..,98.55,..,..,..
+Austria,AUT,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,92.54,..,..,88.49,..,..,92.59,..,..,..
+Austria,AUT,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,13.375485,12.820108,12.264744,12.567013,12.365077,13.687317,12.970606,13.341018,14.020327,12.212717
+Austria,AUT,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,8.9966,8.464,8.2392,8.0144,7.7896,7.5648,7.34,7.0444,6.7488,6.4532
+Austria,AUT,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,2.51967000961304,3.526859998703,3.25781011581421,2.87491989135742,1.97000002861023,0.337379992008209,0.155849993228912,0.312209993600845,0.796649992465973,..
+Austria,AUT,"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS,2.42890000343323,3.41531991958618,3.13497996330261,2.93741989135742,2.15616989135742,0.654810011386871,0.247679993510246,0.0584100000560284,0.451819986104965,..
+Austria,AUT,"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS,2.60595989227295,3.63289999961853,3.3746600151062,2.8153600692749,1.79229998588562,0.0342499986290932,0.0685399994254112,0.55238002538681,1.12153995037079,..
+Austria,AUT,Agriculture value added per worker (constant 2010 US$),EA.PRD.AGRI.KD,41055.2486864366,39198.8690619756,40048.5064850246,42619.3404794952,44595.7576514843,49305.0232710815,..,..,..,..
+Austria,AUT,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,22503.3754129095,21864.5238485044,21577.028987044,20960.2274615157,22643.1753451263,23775.9858279346,27375.7218361122,29749.6946961022,29518.5326687427,..
+Austria,AUT,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,383.371,322.104,326.399,369.955,351.379,387.739,391.268,373.511,320.036527,74.560823
+Austria,AUT,"Air transport, passengers carried",IS.AIR.PSGR,14088251.6640568,14518841.0529716,15037454,15210489,14718641,14724774,16171640,12935505,46476602,13285414
+Austria,AUT,Annual deforestation (% of change) - (for online table only),ER.FST.DFST.ZG,..,..,..,..,-0.0536455716451769,..,..,..,..,..
+Austria,AUT,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,..,2.207840554,..,..,..,..,2.207840554,..,..,..
+Austria,AUT,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,..,20.6179662667,..,..,..,..,20.6179662667,..,..,..
+Azerbaijan,AZE,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,94,94.7,95.2,95.5,95.9,96.2,96.4,96.6,96.7,96.8
+Azerbaijan,AZE,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.9000015258789,100,100,100,100,100,100,100,100,100
+Azerbaijan,AZE,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,99.9000015258789,100,100,100,100,100,100,100,100,100
+Azerbaijan,AZE,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.9000015258789,100,100,100,100,100,100,100,100,100
+Azerbaijan,AZE,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,14.9,..,..,29.15,..,..,28.57,..,..,..
+Azerbaijan,AZE,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,14.26,..,..,25.9,..,..,27.72,..,..,..
+Azerbaijan,AZE,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,15.62,..,..,32.61,..,..,29.44,..,..,..
+Azerbaijan,AZE,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,18.56,..,..,36.31,..,..,34.54,..,..,..
+Azerbaijan,AZE,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,8.15,..,..,24.79,..,..,18.14,..,..,..
+Azerbaijan,AZE,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,8.7,..,..,17.3,..,..,20.48,..,..,..
+Azerbaijan,AZE,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,19.39,..,..,32.05,..,..,35.5,..,..,..
+Azerbaijan,AZE,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,16.91,..,..,31.65,..,..,29.9,..,..,..
+Azerbaijan,AZE,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,4.51,..,..,10.02,..,..,12.57,..,..,..
+Azerbaijan,AZE,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,21.312431,21.008336,20.727866,21.838666,13.627143,6.5418131,9.8086286,8.2619676,7.5184008,6.7042057
+Azerbaijan,AZE,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,47.089,49.24,50.5596,51.8792,53.1988,54.5184,55.838,56.4976,57.1572,57.8168
+Azerbaijan,AZE,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,12.6299295425415,12.8354997634888,12.7380504608154,12.6045703887939,9.79391002655029,5.98042011260986,0.425509989261627,0.521350026130676,0.172849997878075,0.624230027198792
+Azerbaijan,AZE,"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS,13.73464012146,13.482720375061,13.9111795425415,13.6468601226807,10.936900138855,7.19049978256226,0.458579987287521,0.896449983119965,0.298020005226135,0.464489996433258
+Azerbaijan,AZE,"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS,11.6387701034546,12.2607402801514,11.70046043396,11.6889200210571,8.79281997680664,4.9219799041748,0.396519988775253,0.193000003695488,0.0637200027704239,0.762830018997192
+Azerbaijan,AZE,Agriculture value added per worker (constant 2010 US$),EA.PRD.AGRI.KD,2849.72659402816,3032.23960339458,3186.66120598226,3112.38201374749,3339.32344398302,3455.5522420042,..,..,..,..
+Azerbaijan,AZE,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,1730.74897552698,1822.47298016014,1904.47360680735,1837.17704198637,1945.83282464705,1960.76096448287,2016.71235458987,2088.70126853836,2251.11949634756,..
+Azerbaijan,AZE,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,9.5921,13.0443,17.9216,385.14865,686.94149,732.789755,61.6255,44.0886,1620.43791,2030.37809
+Azerbaijan,AZE,"Air transport, passengers carried",IS.AIR.PSGR,1348414,1560084,1651710,1770192,1803112,1961639,2331308,2279546,2585280,545265
+Azerbaijan,AZE,Annual deforestation (% of change) - (for online table only),ER.FST.DFST.ZG,..,..,..,..,-1.80066696400316,..,..,..,..,..
+Azerbaijan,AZE,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,..,74.24394319,..,..,..,..,72.52613131,..,..,..
+Azerbaijan,AZE,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,..,4.0835421888,..,..,..,..,3.5175564875,..,..,..
+"Bahamas, The",BHS,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100
+"Bahamas, The",BHS,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100
+"Bahamas, The",BHS,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,100
+"Bahamas, The",BHS,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,100,100,100,100,100,100,100,100
+"Bahamas, The",BHS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,..,..,..,..,..,..,..,..
+"Bahamas, The",BHS,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,..,..,..,..,..,..,..,..,..,..
+"Bahamas, The",BHS,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,..,..,..,..,..,..,..,..,..,..
+"Bahamas, The",BHS,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,..,..,..,..,..,..,..,..,..,..
+"Bahamas, The",BHS,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,..,..,..,..,..,..,..,..,..,..
+"Bahamas, The",BHS,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,..,..,..,..,..,..,..,..,..,..
+"Bahamas, The",BHS,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,..,..,..,..,..,..,..,..,..,..
+"Bahamas, The",BHS,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,..,..,..,..,..,..,..,..,..,..
+"Bahamas, The",BHS,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,..,..,..,..,..,..,..,..,..,..
+"Bahamas, The",BHS,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,17.149574,17.237948,16.448779,16.471469,15.136806,17.90919,11.657626,11.573236,24.69014,15.70618
+"Bahamas, The",BHS,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,34.1304,32.797,32.2378,31.6786,31.1194,30.5602,30.001,29.2254,28.4498,27.6742
+"Bahamas, The",BHS,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,..,..,..,..,..,..,..,..,..,..
+"Bahamas, The",BHS,"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS,..,..,..,..,..,..,..,..,..,..
+"Bahamas, The",BHS,"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS,..,..,..,..,..,..,..,..,..,..
+"Bahamas, The",BHS,Agriculture value added per worker (constant 2010 US$),EA.PRD.AGRI.KD,39130.2590440361,40690.6294106051,33118.6340246316,31137.1772881152,30783.345728023,30889.4951960506,..,..,..,..
+"Bahamas, The",BHS,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,26919.6005920603,27375.1422172209,22845.0205599855,21144.1875697496,20893.7641784173,22292.604126791,20543.7415040605,18687.1281019681,16679.1271496999,..
+"Bahamas, The",BHS,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.0921231146396359,0.120103571080943,0.145272,0.176256,0.17273088,0.17480365,0.173580024,0,0,0
+"Bahamas, The",BHS,"Air transport, passengers carried",IS.AIR.PSGR,1056129.5948594,1048391.0668218,576996,991463.328879806,900028,937476,921470,1830394.86207463,1856546,1272798.762
+"Bahamas, The",BHS,Annual deforestation (% of change) - (for online table only),ER.FST.DFST.ZG,..,..,..,..,0,..,..,..,..,..
+"Bahamas, The",BHS,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,..,..,..,..,..,..,..,..,..,..
+"Bahamas, The",BHS,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,..,..,..,..,..,..,..,..,..,..
+Bahrain,BHR,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100
+Bahrain,BHR,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100
+Bahrain,BHR,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,100
+Bahrain,BHR,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,100,100,100,100,100,100,100,100
+Bahrain,BHR,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,64.51,..,..,81.94,..,..,82.61,..,..,..
+Bahrain,BHR,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,48.78,..,..,66.74,..,..,75.41,..,..,..
+Bahrain,BHR,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,78.98,..,..,90.25,..,..,86.31,..,..,..
+Bahrain,BHR,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,74.09,..,..,85.82,..,..,85.48,..,..,..
+Bahrain,BHR,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,66.15,..,..,81.03,..,..,75.82,..,..,..
+Bahrain,BHR,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,63,..,..,79.78,..,..,71.41,..,..,..
+Bahrain,BHR,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,63.24,..,..,82.56,..,..,87.14,..,..,..
+Bahrain,BHR,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,65.6,..,..,81.98,..,..,83.51,..,..,..
+Bahrain,BHR,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,41.4,..,..,66.53,..,..,67.3,..,..,..
+Bahrain,BHR,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,-5.5725349,9.1668973,4.7050751,4.5525475,5.1316517,10.053197,12.658308,9.0463768,..,..
+Bahrain,BHR,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,14.1518,13.993,13.868,13.743,13.618,13.493,13.368,13.239,13.11,12.981
+Bahrain,BHR,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,9.82534980773926,10.8256397247314,5.9522500038147,2.7902500629425,2.41261005401611,2.982990026474,3.9765899181366,4.73999977111816,3.73934006690979,..
+Bahrain,BHR,"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS,9.46619987487793,9.57460975646973,5.39509010314941,4.06220006942749,3.64956998825073,1.57517004013062,0.516290009021759,0.403600007295609,0.127920001745224,..
+Bahrain,BHR,"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS,10.1666498184204,11.9900703430176,6.48109006881714,1.5579400062561,1.22381997108459,4.28565979003906,7.09238004684448,8.61386013031006,7.03716993331909,..
+Bahrain,BHR,Agriculture value added per worker (constant 2010 US$),EA.PRD.AGRI.KD,19441.4893617021,19847.0744680851,20139.6276595745,22426.8617021277,28971.6312056738,..,..,..,..,..
+Bahrain,BHR,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,11219.7761418109,11260.8946077122,11310.9874957888,12532.3314438835,11843.2368336924,12516.8392875101,12027.6473135258,12194.4060937649,11772.5492881914,..
+Bahrain,BHR,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,417.582988557635,338.071008606076,265.615452,258.367992,240.107004,387.310813088,390.39,420.98375,311.15413,191.96251
+Bahrain,BHR,"Air transport, passengers carried",IS.AIR.PSGR,5590998.04060636,5861786.99900694,4626648,5171496,5313756,5220218,5190484,5877003,6440562,1451359
+Bahrain,BHR,Annual deforestation (% of change) - (for online table only),ER.FST.DFST.ZG,..,..,..,..,-3.27534039604069,..,..,..,..,..
+Bahrain,BHR,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,..,33.69493898,..,..,..,..,33.31031308,..,..,..
+Bahrain,BHR,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,..,61.6180394558,..,..,..,..,63.4438305709,..,..,..
+Bangladesh,BGD,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,13.7,14.7,15.8,17.1,18.3,19.3,20.6,21.9,23.4,25
+Bangladesh,BGD,Access to electricity (% of population),EG.ELC.ACCS.ZS,59.5999984741211,66.1555709838867,61.5,62.4000015258789,74.9037399291992,75.9199981689453,88,91.8000030517578,92.1999969482422,96.1999969482422
+Bangladesh,BGD,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,45.707088470459,54.6474800109863,48.5877647399902,48.1212005615234,65.2221298217773,66.1436462402344,81.5710296630859,89.0830078125,88.8535995483398,95.2119674682617
+Bangladesh,BGD,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,90.1999969482422,90.6181335449219,88,90.6999969482422,93.4418182373047,94.0100021362305,99.5,96.5,97.8000030517578,97.8000030517578
+Bangladesh,BGD,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,31.74,..,..,30.99,..,..,50.05,..,..,..
+Bangladesh,BGD,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,26.01,..,..,26.45,..,..,35.84,..,..,..
+Bangladesh,BGD,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,37.29,..,..,35.37,..,..,64.59,..,..,..
+Bangladesh,BGD,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,36.76,..,..,35.44,..,..,53.53,..,..,..
+Bangladesh,BGD,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,19.06,..,..,23.03,..,..,40.08,..,..,..
+Bangladesh,BGD,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,21.06,..,..,24.9,..,..,39.84,..,..,..
+Bangladesh,BGD,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,40.18,..,..,36.29,..,..,56.68,..,..,..
+Bangladesh,BGD,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,42.51,..,..,37.21,..,..,57.23,..,..,..
+Bangladesh,BGD,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,20.32,..,..,20.83,..,..,40.99,..,..,..
+Bangladesh,BGD,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,27.427531,29.579935,29.075237,27.406046,26.273878,26.997401,25.391751,23.252934,32.769857,32.406554
+Bangladesh,BGD,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,89.7042,88.605,87.4764,86.3478,85.2192,84.0906,82.962,82.3128,81.6636,81.0144
+Bangladesh,BGD,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,..,..,..,39.7843399047852,36.9220390319824,34.8608894348145,33.1273918151855,..,..,..
+Bangladesh,BGD,"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS,..,..,..,33.5508117675781,30.5724201202393,27.733570098877,25.4321594238281,..,..,..
+Bangladesh,BGD,"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS,..,..,..,45.7612686157227,43.013858795166,41.6917991638184,40.4948883056641,..,..,..
+Bangladesh,BGD,Agriculture value added per worker (constant 2010 US$),EA.PRD.AGRI.KD,640.236426668134,662.248002833325,681.611042257679,715.019360724983,743.129252083471,768.910203709592,..,..,..,..
+Bangladesh,BGD,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,971.160932528603,1002.86707419981,1029.73834131249,1072.52409424531,1108.69550223056,1140.48091580251,1165.30675616337,1225.24000318182,1284.16561763892,..
+Bangladesh,BGD,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,159.692783547366,152.319036972822,225.1869,207.73842,57.0095471847824,53.97916179,61.74997781,50.616612,168.660713625,117.785203056
+Bangladesh,BGD,"Air transport, passengers carried",IS.AIR.PSGR,2022388.57221573,2195061.68029907,2781708,3051914.73321389,3997815,3815869,4660739.03831114,5677396,6260241,2984121.694
+Bangladesh,BGD,Annual deforestation (% of change) - (for online table only),ER.FST.DFST.ZG,..,..,..,..,0.179345857733239,..,..,..,..,..
+Bangladesh,BGD,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,..,87.81711737,..,..,..,..,87.81711737,..,..,..
+Bangladesh,BGD,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,..,10.0362419849,..,..,..,..,10.0362419849,..,..,..
+Barbados,BRB,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100
+Barbados,BRB,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100
+Barbados,BRB,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,100
+Barbados,BRB,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,100,100,100,100,100,100,100,100
+Barbados,BRB,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,-8.6779115,-3.8254359,-3.8852728,-2.5609438,-0.74489546,-1.624639,..,..,..,..
+Barbados,BRB,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,43.6332,42.709,40.8772,39.0454,37.2136,35.3818,33.55,31.1302,28.7104,26.2906
+Barbados,BRB,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,7.25160980224609,..,..,1.1981600522995,1.19533002376556,3.09310007095337,1.81275999546051,3.83275008201599,5.01318979263306,3.66317009925842
+Barbados,BRB,"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS,4.53404998779297,..,..,..,..,..,..,2.60406994819641,3.05172991752625,3.74290990829468
+Barbados,BRB,"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS,9.87376976013184,..,..,..,..,..,..,5,6.88980007171631,3.58638000488281
+Barbados,BRB,Agriculture value added per worker (constant 2010 US$),EA.PRD.AGRI.KD,13773.5294117647,14144.1176470588,14545.5882352941,13989.7058823529,13557.3529411765,17705.8823529412,..,..,..,..
+Barbados,BRB,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"Air transport, passengers carried",IS.AIR.PSGR,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,Annual deforestation (% of change) - (for online table only),ER.FST.DFST.ZG,..,..,..,..,0,..,..,..,..,..
+Barbados,BRB,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,..,67.65432099,..,..,..,..,67.65432099,..,..,..
+Barbados,BRB,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,..,24.6913580247,..,..,..,..,24.6913580247,..,..,..
+Belarus,BLR,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,98.8,99,99.1,99.2,99.3,99.4,99.4,99.5,99.5,99.6
+Belarus,BLR,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100
+Belarus,BLR,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,100
+Belarus,BLR,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,100,100,100,100,100,100,100,100
+Belarus,BLR,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,58.6,..,..,71.98,..,..,81.16,..,..,..
+Belarus,BLR,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,58.07,..,..,71.96,..,..,81.34,..,..,..
+Belarus,BLR,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,59.24,..,..,72.02,..,..,80.93,..,..,..
+Belarus,BLR,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,62.26,..,..,76.08,..,..,85.01,..,..,..
+Belarus,BLR,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,50.42,..,..,66.56,..,..,74.41,..,..,..
+Belarus,BLR,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,13.71,..,..,32.58,..,..,33.99,..,..,..
+Belarus,BLR,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,64.05,..,..,75.6,..,..,85.64,..,..,..
+Belarus,BLR,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,67.39,..,..,78.87,..,..,89.44,..,..,..
+Belarus,BLR,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,41.67,..,..,48.16,..,..,55.16,..,..,..
+Belarus,BLR,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,20.178379,19.057748,16.722992,15.918104,17.00434,13.959038,15.151939,15.845256,14.352347,13.513153
+Belarus,BLR,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,21.5614,21.373,19.9998,18.6266,17.2534,15.8802,14.507,13.7516,12.9962,12.2408
+Belarus,BLR,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,2.06898999214172,2.00661993026733,0.0963200032711029,0.0142500000074506,0.0744500011205673,0.151470005512238,1.29166996479034,1.05734002590179,0.264329999685287,0.140129998326302
+Belarus,BLR,"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS,..,..,..,..,..,..,0.97053998708725,0.813059985637665,..,..
+Belarus,BLR,"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS,..,..,..,..,..,..,1.59593999385834,1.28882002830505,..,..
+Belarus,BLR,Agriculture value added per worker (constant 2010 US$),EA.PRD.AGRI.KD,13016.2942030658,14437.2968644927,14446.6054997164,15534.312358148,15790.3314985503,17130.2004327013,..,..,..,..
+Belarus,BLR,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,6843.69231274926,7469.9698402828,7271.63066814669,7653.17321754855,7611.75685689581,7879.9501294919,7479.85904980465,6781.52570755329,7249.96832566473,..
+Belarus,BLR,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1.549,1.755,1.695996,1.821996,1.807,1.266,1.9151,1.9004,2.8839,1.882857
+Belarus,BLR,"Air transport, passengers carried",IS.AIR.PSGR,737599,943081,1159500,1317732,1489035,2057194,2493100,2760168,3208254,1227674
+Belarus,BLR,Annual deforestation (% of change) - (for online table only),ER.FST.DFST.ZG,..,..,..,..,-0.284756561222622,..,..,..,..,..
+Belarus,BLR,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,..,31.66520979,..,..,..,..,30.85182534,..,..,..
+Belarus,BLR,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,..,36.7897727273,..,..,..,..,37.4373657838,..,..,..
+Belgium,BEL,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100
+Belgium,BEL,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100
+Belgium,BEL,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,100
+Belgium,BEL,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,100,100,100,100,100,100,100,100
+Belgium,BEL,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,96.31,..,..,98.13,..,..,98.64,..,..,..
+Belgium,BEL,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,97.18,..,..,99.51,..,..,98.82,..,..,..
+Belgium,BEL,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,95.3,..,..,96.69,..,..,98.45,..,..,..
+Belgium,BEL,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,98.15,..,..,99.53,..,..,99.3,..,..,..
+Belgium,BEL,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,93.81,..,..,98.61,..,..,98.86,..,..,..
+Belgium,BEL,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,87.31,..,..,100,..,..,100,..,..,..
+Belgium,BEL,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,97.97,..,..,97.79,..,..,98.49,..,..,..
+Belgium,BEL,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,98.63,..,..,97.85,..,..,98.84,..,..,..
+Belgium,BEL,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,89.66,..,..,90.89,..,..,94.32,..,..,..
+Belgium,BEL,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,9.6833368,10.631894,10.043061,10.670733,11.362779,11.322733,11.732439,11.111873,11.607985,9.9591177
+Belgium,BEL,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,6.8292,6.029,5.7534,5.4778,5.2022,4.9266,4.651,4.5704,4.4898,4.4092
+Belgium,BEL,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,1.37316000461578,1.34263002872467,0.699840009212494,0.768400013446808,2.41606998443604,2.89364004135132,1.38068997859955,0.858690023422241,0.33254000544548,..
+Belgium,BEL,"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS,1.66946005821228,1.59503996372223,0.891849994659424,0.913280010223389,2.61676001548767,3.19974994659424,1.65831995010376,1.11550998687744,0.169310003519058,..
+Belgium,BEL,"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS,1.0887199640274,1.10038995742798,0.515799999237061,0.629670023918152,2.22405004501343,2.60102009773254,1.11557996273041,0.614069998264313,0.487520009279251,..
+Belgium,BEL,Agriculture value added per worker (constant 2010 US$),EA.PRD.AGRI.KD,65227.1771997173,67093.5200650751,59475.1968759813,61926.1896123167,72188.6105673001,68357.7457174076,..,..,..,..
+Belgium,BEL,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,52720.5053835988,58507.9092200377,43124.8625041855,47989.267913325,58741.8553681484,51097.9981363694,56625.70775804,55030.6689520399,57329.8866225677,..
+Belgium,BEL,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1241.293,1369.89982037629,1560.81076,1596.3044,1479.9763156,1505.4059084,1574.378609,1285.344187,1353.426977272,1265.065943534
+Belgium,BEL,"Air transport, passengers carried",IS.AIR.PSGR,8638553.1,9508165.31494536,9521421,10535219,11473055,12545322,13676844,13639487,14279187,3520849.848
+Belgium,BEL,Annual deforestation (% of change) - (for online table only),ER.FST.DFST.ZG,..,..,..,..,-0.159063837675561,..,..,..,..,..
+Belgium,BEL,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,..,0.720865038,..,..,..,..,1.126690035,..,..,..
+Belgium,BEL,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,..,14.5174209051,..,..,..,..,18.5027541312,..,..,..
+Belize,BLZ,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,83.4,83.3,83.3,83,82.9,82.8,82.6,82.4,82.1,82.1
+Belize,BLZ,Access to electricity (% of population),EG.ELC.ACCS.ZS,91.6817321777344,90.9959182739258,91.1861038208008,91.3642578125,91.8000030517578,93.2223129272461,94.1890106201172,91.7200012207031,92.7200012207031,97.1133346557617
+Belize,BLZ,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,87.8571701049805,85.8638458251953,86.0654373168945,86.2510681152344,87.5583190917969,89.3888473510742,91.0207214355469,86.5137710571289,87.8397598266602,96.074462890625
+Belize,BLZ,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.313362121582,97.2064361572266,97.3738327026367,97.52978515625,96.9000015258789,97.8149795532227,97.9685745239258,97.9000015258789,98.4800033569336,98.3316497802734
+Belize,BLZ,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,..,48.21,..,..,..,..,..,..
+Belize,BLZ,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,..,..,..,52.28,..,..,..,..,..,..
+Belize,BLZ,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,..,..,..,44.09,..,..,..,..,..,..
+Belize,BLZ,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,..,..,..,52.2,..,..,..,..,..,..
+Belize,BLZ,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,..,..,..,37.38,..,..,..,..,..,..
+Belize,BLZ,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,..,..,..,41.33,..,..,..,..,..,..
+Belize,BLZ,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,..,..,..,55.42,..,..,..,..,..,..
+Belize,BLZ,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,..,..,..,50.81,..,..,..,..,..,..
+Belize,BLZ,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,..,..,..,39.33,..,..,..,..,..,..
+Belize,BLZ,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,-5.6067587,-4.3049094,-3.8532209,-1.8757404,1.9097117,-1.0610392,0.1676431,-0.64710119,3.5237021,4.5860941
+Belize,BLZ,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,73.8744,72.679,71.8406,71.0022,70.1638,69.3254,68.487,68.049,67.611,67.173
+Belize,BLZ,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,13.7767896652222,9.29973983764648,9.02840995788574,9.73824977874756,11.1883697509766,12.33726978302,11.22523021698,10.1115703582764,10.0421600341797,15.2496004104614
+Belize,BLZ,"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS,13.8248796463013,10.9800100326538,9.93142032623291,10.2417802810669,11.92982006073,13.1102600097656,11.5209999084473,9.82983016967773,10.8145198822021,16.0596008300781
+Belize,BLZ,"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS,13.7288799285889,7.62495994567871,8.12934970855713,9.2380199432373,10.453800201416,11.573579788208,10.9343595504761,10.3872404098511,9.29065990447998,14.466010093689
+Belize,BLZ,Agriculture value added per worker (constant 2010 US$),EA.PRD.AGRI.KD,4956.31230100424,5129.13934296602,5254.0075032535,5389.54322494733,4633.17225107487,3441.84178375145,..,..,..,..
+Belize,BLZ,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,9267.18200355044,9608.07924727443,9940.78660235098,9879.11708747274,8490.16955217921,6120.82912155027,6885.14735121232,6642.12371156211,6249.29146206211,..
+Belize,BLZ,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.0750827301877635,0.0608348499918917,1.19620662,3.00429486,2.463420011,2.689022193,3.746059438,0,0,0
+Belize,BLZ,"Air transport, passengers carried",IS.AIR.PSGR,179471.413542693,448015.914026667,513175.6,877765,935604,990499,1285642,1297533.22307894,1278187.556,971426.138
+Belize,BLZ,Annual deforestation (% of change) - (for online table only),ER.FST.DFST.ZG,..,..,..,..,0.438041204096137,..,..,..,..,..
+Belize,BLZ,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,..,67.72277228,..,..,..,..,67.72277228,..,..,..
+Belize,BLZ,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,..,11.2871287129,..,..,..,..,11.2871287129,..,..,..
+Benin,BEN,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,4.1,4.3,4.3,4.3,4.3,4.3,4.2,4.2,4,4
+Benin,BEN,Access to electricity (% of population),EG.ELC.ACCS.ZS,36.9000015258789,38.4000015258789,34.691219329834,34.0999984741211,29.6200008392334,37.0952453613281,34.5,39.2469177246094,40.3286895751953,41.4109573364258
+Benin,BEN,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,13.6236371994019,14.5507860183716,13.4309768676758,16.2260112762451,11.0660028457642,15.2943601608276,17.1921844482422,16.747350692749,17.475679397583,18.1965103149414
+Benin,BEN,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,67,68.5999984741211,61.0548324584961,55.7999992370605,51.6699981689453,62.452823638916,54.2000007629395,64.3030776977539,65.2243881225586,66.1453857421875
+Benin,BEN,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,10.46,..,..,16.62,..,..,38.49,..,..,..
+Benin,BEN,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,9.81,..,..,13.6,..,..,28.59,..,..,..
+Benin,BEN,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,11.15,..,..,19.76,..,..,48.62,..,..,..
+Benin,BEN,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,14.84,..,..,20.92,..,..,41.32,..,..,..
+Benin,BEN,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,3.58,..,..,10.01,..,..,31.85,..,..,..
+Benin,BEN,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,8.57,..,..,12.37,..,..,31.44,..,..,..
+Benin,BEN,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,15.02,..,..,20.98,..,..,42.9,..,..,..
+Benin,BEN,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,19.93,..,..,31.97,..,..,55.67,..,..,..
+Benin,BEN,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,2.84,..,..,8.36,..,..,34.18,..,..,..
+Benin,BEN,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,1.466368,4.2638314,8.3423977,10.842891,4.796483,8.1240124,7.5772256,9.7765162,11.367239,..
+Benin,BEN,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,98.8278,96.365,94.3112,92.2574,90.2036,88.1498,86.096,84.0364,81.9768,79.9172
+Benin,BEN,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,..,..,34.4087104797363,..,50.952579498291,..,..,..,..,42.0731010437012
+Benin,BEN,"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS,..,..,42.5195198059082,..,55.5296897888184,..,..,..,..,46.1772613525391
+Benin,BEN,"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS,..,..,26.5003700256348,..,46.4936599731445,..,..,..,..,38.0779800415039
+Benin,BEN,Agriculture value added per worker (constant 2010 US$),EA.PRD.AGRI.KD,1000.35252312522,1022.3605333142,1062.92339688865,1111.53015055912,1023.61842950104,1061.33345121461,..,..,..,..
+Benin,BEN,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,1549.27700838445,1606.40012124154,1683.30394685116,1796.26753151892,1760.60384518167,1881.72648587369,1996.36631143264,2117.93775535914,2203.83850731344,..
+Benin,BEN,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.441834952,0.441834952,1.265124,0.553884,0.805347336,0.006442778,..,..,..,..
+Benin,BEN,"Air transport, passengers carried",IS.AIR.PSGR,58314.1,58314.1,137640,60264,112392,899,..,..,..,..
+Benin,BEN,Annual deforestation (% of change) - (for online table only),ER.FST.DFST.ZG,..,..,..,..,1.06359801061946,..,..,..,..,..
+Benin,BEN,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,..,26.12270715,..,..,..,..,25.21367521,..,..,..
+Benin,BEN,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,..,60.5945604048,..,..,..,..,61.9658119658,..,..,..
+Bermuda,BMU,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100
+Bermuda,BMU,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,100
+Bermuda,BMU,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,100,100,100,100,100,100,100,100
+Bermuda,BMU,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,17.1815490722656,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS,12.1342496871948,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS,22.0649509429932,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,Agriculture value added per worker (constant 2010 US$),EA.PRD.AGRI.KD,41236.7645106063,38253.6641473192,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Air transport, passengers carried",IS.AIR.PSGR,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,Annual deforestation (% of change) - (for online table only),ER.FST.DFST.ZG,..,..,..,..,0,..,..,..,..,..
+Bermuda,BMU,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,..,..,..,..,..,..,..,..,..,..
+Bhutan,BTN,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,66.7,68.9,71.2,72.9,75,76,77.4,78.3,79.4,80.2
+Bhutan,BTN,Access to electricity (% of population),EG.ELC.ACCS.ZS,81.76708984375,91.5,87.4511413574219,91.483512878418,95.5307159423828,99.5897903442383,97.6999969482422,99.974365234375,100,100
+Bhutan,BTN,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,72.0372467041016,86.8699645996094,80.3489456176758,86.5948257446289,92.9191131591797,99.4221343994141,96.7601547241211,99.9632263183594,100,100
+Bhutan,BTN,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.3797607421875,99.5999984741211,99.4670944213867,99.4875869750977,99.6712875366211,99.8473587036133,99.0999984741211,99.9904632568359,100,100
+Bhutan,BTN,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,..,33.67,..,..,..,..,..,..
+Bhutan,BTN,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,..,..,..,27.68,..,..,..,..,..,..
+Bhutan,BTN,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,..,..,..,38.99,..,..,..,..,..,..
+Bhutan,BTN,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,..,..,..,38.01,..,..,..,..,..,..
+Bhutan,BTN,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,..,..,..,24.9,..,..,..,..,..,..
+Bhutan,BTN,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,..,..,..,29.21,..,..,..,..,..,..
+Bhutan,BTN,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,..,..,..,39.49,..,..,..,..,..,..
+Bhutan,BTN,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,..,..,..,46.38,..,..,..,..,..,..
+Bhutan,BTN,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,..,..,..,22.18,..,..,..,..,..,..
+Bhutan,BTN,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,32.581377,43.419766,18.650808,24.616019,17.770234,25.588831,25.065547,20.593208,16.698261,11.5958
+Bhutan,BTN,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,31.97,27.989,26.428,24.867,23.306,21.745,20.184,18.895,17.606,16.317
+Bhutan,BTN,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,19.7401695251465,16.5583095550537,18.6154098510742,..,15.0201797485352,14.4161901473999,13.1072702407837,12.0171699523926,..,..
+Bhutan,BTN,"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS,15.5354499816895,12.4104900360107,14.483229637146,..,11.1455497741699,9.36369037628174,7.32375001907349,5.84736013412476,..,..
+Bhutan,BTN,"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS,23.8011703491211,20.5740394592285,22.6276702880859,..,18.7880992889404,19.2981300354004,18.6926002502441,17.9922199249268,..,..
+Bhutan,BTN,Agriculture value added per worker (constant 2010 US$),EA.PRD.AGRI.KD,852.345766111388,847.648881282812,844.918942669161,844.883278271863,870.184375305401,886.85017530974,..,..,..,..
+Bhutan,BTN,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,1388.16867671466,1468.61273820736,1520.44795490355,1546.44914630255,1466.84119337327,1509.58935753707,1534.84708877439,1574.26656916357,1568.85165555135,..
+Bhutan,BTN,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.483705822187223,0.471,0.635292,0.922884,0.538041372,0.65910068,0.530672,0.690916,0.318844,0.510072
+Bhutan,BTN,"Air transport, passengers carried",IS.AIR.PSGR,226153.126621635,193405,207996,302160,162864,224101,254643,275849,276092,48825
+Bhutan,BTN,Annual deforestation (% of change) - (for online table only),ER.FST.DFST.ZG,..,..,..,..,-0.371190914959001,..,..,..,..,..
+Bhutan,BTN,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,..,94.08284024,..,..,..,..,94.08284024,..,..,..
+Bhutan,BTN,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,..,5.0295857988,..,..,..,..,5.0295857988,..,..,..
+Bolivia,BOL,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,77.8,79.3,80.4,81.7,82.7,83.5,84.2,85,85.7,86.1
+Bolivia,BOL,Access to electricity (% of population),EG.ELC.ACCS.ZS,88.3359451293945,90.3873748779297,89.5056838989258,90.0387268066406,91.522819519043,91.8000030517578,91.8000030517578,92.8000030517578,95.0800018310547,97.5541229248047
+Bolivia,BOL,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,66.647575378418,72.1698913574219,68.5167388916016,70.2928619384766,74.338493347168,74.8694534301758,74.820442199707,77.5866775512695,84.9234771728516,91.8135147094727
+Bolivia,BOL,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.0792617797852,99.2329330444336,99.5200729370117,99.3108444213867,99.4643478393555,99.5,99.4000015258789,99.5,99.4800033569336,100
+Bolivia,BOL,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,28.03,..,..,41.8,..,..,54.41,..,..,..
+Bolivia,BOL,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,25.11,..,..,38.04,..,..,53.85,..,..,..
+Bolivia,BOL,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,31.12,..,..,45.76,..,..,54.98,..,..,..
+Bolivia,BOL,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,32.01,..,..,46.08,..,..,59.91,..,..,..
+Bolivia,BOL,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,14.35,..,..,25.92,..,..,42.83,..,..,..
+Bolivia,BOL,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,12.77,..,..,19.96,..,..,43.05,..,..,..
+Bolivia,BOL,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,37.13,..,..,52.37,..,..,62.12,..,..,..
+Bolivia,BOL,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,34.34,..,..,48.16,..,..,60.69,..,..,..
+Bolivia,BOL,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,19.4,..,..,31.36,..,..,41.26,..,..,..
+Bolivia,BOL,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,14.74167,13.814595,12.434636,10.119183,6.4663489,7.2056474,6.5196821,5.8433094,4.7083639,-2.0743915
+Bolivia,BOL,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,74.6964,72.889,71.2912,69.6934,68.0956,66.4978,64.9,63.9042,62.9084,61.9126
+Bolivia,BOL,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,6.0247597694397,3.50822997093201,4.43794012069702,8.37771034240723,10.7659902572632,12.8190402984619,14.5239601135254,13.4680795669556,..,11.5923700332642
+Bolivia,BOL,"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS,6.18227005004883,3.75139999389648,4.80083990097046,8.63125038146973,10.8793201446533,12.9468898773193,14.4473304748535,13.7772798538208,..,11.4601697921753
+Bolivia,BOL,"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS,5.87341976165771,3.27463006973267,4.08946990966797,8.1343297958374,10.6572399139404,12.6963796615601,14.5974702835083,13.1715297698975,..,11.7191295623779
+Bolivia,BOL,Agriculture value added per worker (constant 2010 US$),EA.PRD.AGRI.KD,1044.67024816638,1065.79210053778,1093.91154719357,1113.39978234607,1147.29841757734,1160.90297585065,..,..,..,..
+Bolivia,BOL,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,2015.49214112672,2289.99699990481,2226.06307301518,2075.18791866256,2540.91213239731,2395.64582554016,2411.84377726005,2375.95084952643,2486.09641048987,..
+Bolivia,BOL,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,17.4124617143146,12.3003149495376,7.993202,8.78072557707694,9.93479748637544,9.008756313,9.48554381985556,13.7284774028928,22.980404,17.95563766
+Bolivia,BOL,"Air transport, passengers carried",IS.AIR.PSGR,2125912.52659794,2206069.76066974,2027888,3563043.5828127,4115271,3678739,4053427.35,4122113,4066959,2627202.201
+Bolivia,BOL,Annual deforestation (% of change) - (for online table only),ER.FST.DFST.ZG,..,..,..,..,0.616935994033057,..,..,..,..,..
+Bolivia,BOL,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,..,91.95402299,..,..,..,..,91.95402299,..,..,..
+Bolivia,BOL,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,..,6.5134099617,..,..,..,..,6.5134099617,..,..,..
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Data from database: Sustainable Development Goals (SDGs),,,,,,,,,,,,,
+Last Updated: 07/22/2022,,,,,,,,,,,,,
